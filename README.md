@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carlos Lopez and I'm a computer engineer since 2023 and software developer, from Salta - Argentina 🇦🇷</p>
+<p align="left">My name is Carlos Andres Lopez and I'm a computer engineer since 2023 and software developer, from Salta - Argentina 🇦🇷</p>
 
 ###
 
