@@ -4,6 +4,10 @@
 
 <p align="left">My name is Carlos Andres Lopez and I'm a computer engineer since 2023 and software developer, from Salta - Argentina 🇦🇷</p>
 
+--------------------
+
+<p align="left">Hola, me llamo Carlos Andres Lopez y soy Ingeniero en Informatica desde 2023 y desarrollador de software, de Salta - Argentina 🇦🇷</p>
+
 ###
 
 <h2 align="left">About me</h2>
